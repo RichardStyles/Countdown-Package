@@ -1,0 +1,12 @@
+{
+    "name": "richardstyles/countdown",
+    "description": "Countdown to a date time page for laravel.",
+    "authors": [
+        {
+            "name": "Richard Styles",
+            "email": "richardstyles@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
